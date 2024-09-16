@@ -15,4 +15,3 @@ User manual
 
 In order for the application to work properly, always follow the instructions in the text boxes displayed and respect the units indicated in order to obtain appropriate results. When submitting values, make sure you enter a reasonable tolerance (you can refine your search by decreasing the value). When the program asks you for file names, make sure that all of them have been read correctly and, if any have not, correct them and submit them again, and then move on to the next page. If you don't have data for all the program's topologies, we recommend using the application's native database.
 
-Translated with DeepL.com (free version)
